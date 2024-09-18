@@ -1,0 +1,157 @@
+.dashboard {
+
+    font-size: 25px;
+    font-weight: 300;
+   
+    
+}
+.dashboard1 {
+    font-size: 60px;
+    font-weight: 400;
+}
+
+.dashboard2 {
+    background-image: url('../../puplic//assests/home.png');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    /* width: 1498px;
+    height: 872px; */
+}
+
+.dashboard3 {
+    width: 117px;
+    height: 120px;
+    border-style: solid;
+    border-color: gray;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dashboard4 {
+    background-color: rgb(1, 1, 38);
+}
+
+.dashboard5 {
+    background-image: url('../../puplic/assests/Screensh.png');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+.dashboard6 {
+    font-size: 70px;
+    color:#FFFFFF;
+}
+
+.dashboard7 {
+    font-size: 40px;
+    color:gainsboro;
+    padding-top: 10px;
+}
+
+.dashboard8 {
+    font-size: 30px;
+    color:gainsboro;
+    padding-top: 10px;
+}
+
+.dashboard9 {
+    background-color: #030014;
+
+}
+
+.dashboard10 {
+    width: 828px;
+    height: 149px;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: gray;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+
+
+
+
+}
+
+.dashboard11 {
+    border-radius: 15px;
+    border-style: solid;
+    border-color: gray;
+}
+
+.dashboard12 {
+    width: 273px;
+    height: 149px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: gray;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+
+.dashboard13 {
+   background-image: url('../../puplic/assests/Frame16.png');
+   min-height: 100vh;
+   background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #030014;
+    
+   
+}
+
+.dashboard14 {
+    background-color: #030014;
+    color:#9E9DA4 ;
+
+
+}
+
+.dashboard15 {
+    width: 400px;
+    height: 190px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color:#9E9DA4 ;
+    display: flex;
+    flex-direction: column;
+}
+
+.dashboard16 {
+    display: flex;
+    justify-content: flex-end;
+    padding: 5px;
+}
+
+.dashboard17 {
+
+    font-size: 15px;
+    font-weight: 100;
+    font-weight: bolder;
+}
+
+
+.dashboard18 {
+    display: flex;
+    gap: 10px;
+
+
+}

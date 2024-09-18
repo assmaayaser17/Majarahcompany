@@ -1,0 +1,129 @@
+
+.dashboard {
+    background-color: #040214;
+}
+
+.dashboard1 {
+ background-image: url('../../../puplic/assests/background.png');
+ min-height: 100vh;
+ background-size: cover;
+ background-position: center;
+ background-repeat: no-repeat;
+ display: flex;
+ justify-content: space-around;
+ flex-direction: column;
+ align-items: center;
+}
+
+.dashboard2 {
+    width: 240px;
+    height: 240px;
+    text-align: center;
+}
+
+.dashboard3 {
+    font-size: 80px;
+    color: white;
+    
+}
+
+.dashboard4 {
+    width: 287px;
+    height: 72px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+   
+}
+
+.dashboard5 {
+    font-size: 20px;
+    color: white;
+    
+}
+
+.dashboard6 {
+    width: 402px;
+    height: 56.02px;
+    border-radius: 15px;
+    background-color: #492EA3;
+    border-style: solid;
+    border-color: gray;
+}
+
+
+.dashboard7 {
+    width: 75.43px;
+    height: 75.43px;
+    background-color: #492EA3;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dashboard8 {
+    width: 316px;
+    height: 350px;
+   border-style: solid;
+   border-color: gray;
+    border-radius: 15px;
+}
+
+.dashboard9 {
+    width: 62px;
+    height: 30px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #040214;
+    color: white;
+    border-style: solid;
+   border-color: gray;
+
+}
+
+.dashboard10 {
+    background-image: url('../../../puplic/assests/element.png');
+    width: 656px;
+    height: 438px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+   
+}
+
+.dashboard11 {
+    width: 318px;
+    height: 230px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: gray;
+
+
+}
+
+.dashboard12 {
+    width: 313px;
+    height:600px;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: gray;
+
+
+}
+
+.dashboard13 {
+    width: 290px;
+    height: 45px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: gray;
+    color: white;
+    background-color: #040214;
+
+}
+

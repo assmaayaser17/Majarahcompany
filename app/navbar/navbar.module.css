@@ -1,0 +1,44 @@
+.dashboard {
+   
+    border-radius: 15px;
+    border-style: solid;
+    border-color: rgb(102, 96, 96);
+    color: white !important;
+   
+}
+
+.dashboard1 {
+    width: 120px;
+    height: 41px;
+    border-radius: 10px;
+    /* background-color:rgb(72, 18, 72) ; */
+    background: radial-gradient(circle closest-side at center, rgba(62, 29, 120, .2), rgba(62, 29, 160, .3));
+    /* border-style: solid; */
+    border: 3px solid #1d26a0;
+    color: aliceblue;
+    font-weight: 800;
+    
+}
+
+.dashboard2 {
+    
+    background-color: #040214;
+}
+
+@media screen and (max-width:768px) {
+
+    #NAVBAR {
+        display: flex;
+        flex-direction: column;
+        background-color:red !important;
+    }
+    
+   
+  }
+
+
+
+
+
+
+    
